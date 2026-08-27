@@ -1,5 +1,5 @@
 import { Outlet, createFileRoute } from '@tanstack/react-router'
-import { SharedAppLayout } from '@/layouts/shared-app-layout'
+import { SharedAppLayout } from '../layouts/shared-app-layout'
 
 /**
  * App shell layout — mounted at the REAL `/app` segment (not a pathless `_app`).
