@@ -17,6 +17,8 @@
     "vite": "^5.0.0"
   },
   "dependencies": {
+    "@tanstack/react-router": "^1.170.11",
+    "@tanstack/react-router-devtools": "^1.170.11",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.85.0",
